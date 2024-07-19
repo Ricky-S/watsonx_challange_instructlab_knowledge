@@ -10,7 +10,7 @@ This repo contains the following knowledge:
 
 Text is available under the [MIT license](https://github.com/microsoft/LoRA?tab=MIT-1-ov-file#readme)
 
-### [Sora (text-to-video model)_wiki](https://en.wikipedia.org/wiki/Sora_(text-to-video_model))
+### [Sora_wiki](https://en.wikipedia.org/wiki/Sora_(text-to-video_model))
 
 Text is available under the [Creative Commons Attribution-ShareAlike License 4.0](https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License)
 
